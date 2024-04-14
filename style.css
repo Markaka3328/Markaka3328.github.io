@@ -1,0 +1,112 @@
+body{
+	background: linear-gradient(to right, blue, purple);
+}
+.box1{
+	width: 28%;
+	border: 5px solid white;
+	border-radius: 15px;
+	box-shadow: 0 0 20px white;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	transition: 2s;
+	margin-top: 40px;
+	transition-duration: 1.5s;
+	text-align: center;
+} 
+img{
+	width: 300px;
+	margin-left: 2px;
+}
+.box1:hover{
+	transform: rotate(360deg);
+	border-radius: 10px;
+	background: linear-gradient(to bottom, #196F3D, #784212);
+	text-shadow: 0 0 10px #85C1E9;
+	text-align: center;
+	color: #673AB7;
+}
+.box2{
+	width: 28%;
+	border: 5px solid white;
+	border-radius: 15px;
+	box-shadow: 0 0 20px white;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	transition: 2s;
+	margin-top: 40px;
+	transition-duration: 1.5s;
+	text-align: center;
+} 
+.box2:hover{
+	transform: rotate(360deg);
+	border-radius: 10px;
+	background: linear-gradient(to bottom right, #8E24AA, #1A237E);
+	text-shadow: 0 0 10px #FFEB3B;
+	text-align: center;
+	color: #388E3C;
+}
+.box3{
+	width: 28%;
+	border: 5px solid white;
+	border-radius: 15px;
+	box-shadow: 0 0 20px white;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	transition: 2s;
+	margin-top: 40px;
+	transition-duration: 1.5s;
+	text-align: center;
+} 
+.box3:hover{
+	transform: rotate(360deg);
+	border-radius: 10px;
+	background: linear-gradient(to bottom, #FDD835, #FF8F00);
+	text-shadow: 0 0 10px #F44336;
+	text-align: center;
+	color: #1976D2;
+}
+.box4{
+	width: 28%;
+	border: 5px solid white;
+	border-radius: 15px;
+	box-shadow: 0 0 20px white;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	transition: 2s;
+	margin-top: 40px;
+	transition-duration: 1.5s;
+	text-align: center;
+} 
+.box4:hover{
+	transform: rotate(360deg);
+	border-radius: 10px;
+	background: linear-gradient(to bottom, #145A32, #515A5A);
+	text-shadow: 0 0 10px #F39C12;
+	text-align: center;
+	color: #C0392B;
+}
+.box5{
+	width: 28%;
+	border: 5px solid white;
+	border-radius: 15px;
+	box-shadow: 0 0 20px white;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	transition: 2s;
+	margin-top: 40px;
+	transition-duration: 1.5s;
+	text-align: center;
+} 
+.box5:hover{
+	transform: rotate(360deg);
+	border-radius: 10px;
+	background: linear-gradient(to bottom, #154360 , #3498DB);
+	text-shadow: 0 0 10px #2874A6;
+	text-align: center;
+	color: linear-gradient(to top, #F8C471, #A569BD);
+}
